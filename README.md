@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Taiwo 👨🏾‍💻
+# 👋🏾 Hi there! I'm Taiwo 👨🏾‍💻
 
-## 🚀 AI/ML Engineer | Data Scientist | Data Engineer
+## AI Engineer | Data Scientist | Data Engineer
 
 I am a **results-driven Engineer** with a passion for building **scalable AI and machine learning solutions** that drive business impact. My expertise lies in **computer vision, NLP, generative AI, and data engineering**, leveraging deep learning, LLMs, and cloud-based architectures to develop intelligent systems.
 
