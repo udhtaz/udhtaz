@@ -8,7 +8,7 @@ I am a **results-driven Engineer** with a passion for building **scalable AI and
 
 ### 🔬 **About Me**
 - 🎓 MSc. Systems Engineering | BSc. Chemical Engineering
-- 🧠 Highly Skilled and kwnoledgable in **LLMs, RAG, Computer Vision, and MLOps**
+- 🧠 Highly Skilled and experienced with **LLMs, RAG, Computer Vision, and MLOps**
 - 🌍 Industry experience in **Global FMCG, Fintech, and AI-driven automation**
 
 ---
